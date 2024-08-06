@@ -1,0 +1,7 @@
+re
+csv
+plotly
+pandas
+streamlit
+transformers
+instaloader
